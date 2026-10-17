@@ -1,0 +1,9 @@
+morphology,PWP_quartile,PWP_quartile_label,PWP_quartile_n,beta_most_negative_quartile_n,percent_of_PWP_quartile
+1,1,Coolest quarter,162,23,14.197530864197532
+1,4,Hottest quarter,162,75,46.2962962962963
+2,1,Coolest quarter,265,65,24.528301886792452
+2,4,Hottest quarter,265,91,34.339622641509436
+3,1,Coolest quarter,165,31,18.78787878787879
+3,4,Hottest quarter,165,62,37.57575757575758
+4,1,Coolest quarter,410,179,43.65853658536585
+4,4,Hottest quarter,410,90,21.951219512195124

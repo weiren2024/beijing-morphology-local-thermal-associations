@@ -1,0 +1,55 @@
+﻿file,field,definition
+direction_comparison.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+direction_comparison.csv,morphology_label,Morphology text label
+direction_comparison.csv,hot_minus_cool_1400_pp,"Hot-tail overlap minus cool-tail overlap within the whole morphology for the 1400 output, percentage points"
+direction_comparison.csv,hot_minus_cool_1600_pp,"Hot-tail overlap minus cool-tail overlap within the whole morphology for the 1600 output, percentage points"
+direction_comparison.csv,direction_preserved,Flag that the hot-minus-cool overlap direction is unchanged across outputs
+full_joint_counts.csv,run_lower_bound,"Existing MGWR neighbourhood-search lower bound, 1400 or 1600"
+full_joint_counts.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+full_joint_counts.csv,morphology_label,Morphology text label
+full_joint_counts.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+full_joint_counts.csv,beta_quartile,Within-morphology signed G1-coefficient quartile code 1-4
+full_joint_counts.csv,n,Grid count for the row
+full_joint_counts.csv,PWP_quartile_n,Complete within-morphology PWP-quartile denominator
+full_joint_counts.csv,row_percent,100 times joint count divided by the corresponding within-morphology PWP-quartile count
+member_change_summary.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+member_change_summary.csv,morphology_label,Morphology text label
+member_change_summary.csv,n,Grid count for the row
+member_change_summary.csv,Q1_1400_n,Count of grids in coefficient Q1 for the indicated output
+member_change_summary.csv,Q1_1600_n,Count of grids in coefficient Q1 for the indicated output
+member_change_summary.csv,retained_Q1_n,Count in coefficient Q1 in both outputs
+member_change_summary.csv,entered_Q1_1600_n,Count entering coefficient Q1 in the 1600 output
+member_change_summary.csv,exited_Q1_1400_n,Count leaving coefficient Q1 from the 1400 output
+member_change_summary.csv,membership_changed_n,"Total grids entering or leaving Q1, each counted once"
+member_change_summary.csv,entered_cool_n,Q1 entrants in the fixed cool PWP tail
+member_change_summary.csv,exited_cool_n,Q1 exits in the fixed cool PWP tail
+member_change_summary.csv,entered_hot_n,Q1 entrants in the fixed hot PWP tail
+member_change_summary.csv,exited_hot_n,Q1 exits in the fixed hot PWP tail
+member_comparison_4005.csv,LID,Stable analysis-grid identifier
+member_comparison_4005.csv,RUN_ROWID,Model-run row identity
+member_comparison_4005.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+member_comparison_4005.csv,PWP,"Total-population-weighted summer daytime land-surface temperature, degrees Celsius"
+member_comparison_4005.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+member_comparison_4005.csv,G1_coefficient_1400,Signed G1 local coefficient from the 1400 neighbourhood lower-bound output
+member_comparison_4005.csv,G1_coefficient_1600,Signed G1 local coefficient from the 1600 neighbourhood lower-bound output
+member_comparison_4005.csv,beta_quartile_1400,Within-morphology signed G1-coefficient quartile code for the 1400 output
+member_comparison_4005.csv,beta_quartile_1600,Within-morphology signed G1-coefficient quartile code for the 1600 output
+member_comparison_4005.csv,Q1_membership_changed,Flag for entering or leaving coefficient Q1 between the two existing outputs
+run_quartile_thresholds.csv,run_lower_bound,"Existing MGWR neighbourhood-search lower bound, 1400 or 1600"
+run_quartile_thresholds.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+run_quartile_thresholds.csv,morphology_label,Morphology text label
+run_quartile_thresholds.csv,variable,Variable or model-input field name
+run_quartile_thresholds.csv,n,Grid count for the row
+run_quartile_thresholds.csv,q25,q25 of row variable; quantiles describe observed distributions
+run_quartile_thresholds.csv,q50,q50 of row variable; quantiles describe observed distributions
+run_quartile_thresholds.csv,q75,q75 of row variable; quantiles describe observed distributions
+tail_comparison.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+tail_comparison.csv,morphology_label,Morphology text label
+tail_comparison.csv,PWP_tail,Cool or hot PWP tail
+tail_comparison.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+tail_comparison.csv,denominator,Complete within-morphology PWP-tail denominator
+tail_comparison.csv,joint_n_1400,Joint PWP-tail and coefficient-Q1 grid count for the indicated output
+tail_comparison.csv,percent_1400,100 times the joint count divided by the fixed PWP-tail denominator for the indicated output
+tail_comparison.csv,joint_n_1600,Joint PWP-tail and coefficient-Q1 grid count for the indicated output
+tail_comparison.csv,percent_1600,100 times the joint count divided by the fixed PWP-tail denominator for the indicated output
+tail_comparison.csv,delta_1600_minus_1400_pp,"1600 overlap percentage minus 1400 overlap percentage, percentage points"

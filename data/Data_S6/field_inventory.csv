@@ -1,0 +1,44 @@
+file,field,definition
+TableS6a_indicator_rank_and_raw_profiles.csv,morphology_id,Morphology code 1-4
+TableS6a_indicator_rank_and_raw_profiles.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+TableS6a_indicator_rank_and_raw_profiles.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+TableS6a_indicator_rank_and_raw_profiles.csv,variable,Variable or model-input field name
+TableS6a_indicator_rank_and_raw_profiles.csv,n,Grid count for the row
+TableS6a_indicator_rank_and_raw_profiles.csv,mean,mean of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,sd,sd of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,min,min of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,q05,q05 of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,q25,q25 of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,median,median of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,q75,q75 of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,q95,q95 of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,max,max of row variable; quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_mean,mean of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_sd,sd of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_min,min of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_q05,q05 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_q25,q25 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_median,median of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_q75,q75 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_q95,q95 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_max,max of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+TableS6a_indicator_rank_and_raw_profiles.csv,raw_unit,Unit of the unranked model-input summary fields
+TableS6b_scaled_coefficient_profiles.csv,morphology_id,Morphology code 1-4
+TableS6b_scaled_coefficient_profiles.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+TableS6b_scaled_coefficient_profiles.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+TableS6b_scaled_coefficient_profiles.csv,variable,Variable or model-input field name
+TableS6b_scaled_coefficient_profiles.csv,n,Grid count for the row
+TableS6b_scaled_coefficient_profiles.csv,mean,mean of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,sd,sd of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,min,min of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,q05,q05 of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,q25,q25 of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,median,median of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,q75,q75 of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,q95,q95 of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,max,max of row variable; quantiles describe observed distributions
+TableS6b_scaled_coefficient_profiles.csv,native_significant_share_pct,Percentage of all grids in the row group carrying the software-corrected significance flag
+TableS6b_scaled_coefficient_profiles.csv,negative_share_pct,Percentage of all group grids with a negative coefficient
+TableS6b_scaled_coefficient_profiles.csv,positive_share_pct,Percentage of all group grids with a positive coefficient
+TableS6b_scaled_coefficient_profiles.csv,native_significant_negative_share_pct,Percentage of all group grids both software-flagged significant and negative
+TableS6b_scaled_coefficient_profiles.csv,native_significant_positive_share_pct,Percentage of all group grids both software-flagged significant and positive

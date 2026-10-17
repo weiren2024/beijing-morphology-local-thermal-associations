@@ -1,0 +1,381 @@
+﻿package,file,field,definition
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,morphology_id,Morphology code 1-4
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,variable,Variable or model-input field name
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,n,Grid count for the row
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,mean,mean of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,sd,sd of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,min,min of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,q05,q05 of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,q25,q25 of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,median,median of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,q75,q75 of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,q95,q95 of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,max,max of row variable; quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_mean,mean of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_sd,sd of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_min,min of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_q05,q05 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_q25,q25 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_median,median of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_q75,q75 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_q95,q95 of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_max,max of unranked model-input value (unit in raw_unit); quantiles describe observed distributions
+Data_S6,TableS6a_indicator_rank_and_raw_profiles.csv,raw_unit,Unit of the unranked model-input summary fields
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,morphology_id,Morphology code 1-4
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,variable,Variable or model-input field name
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,n,Grid count for the row
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,mean,mean of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,sd,sd of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,min,min of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,q05,q05 of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,q25,q25 of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,median,median of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,q75,q75 of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,q95,q95 of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,max,max of row variable; quantiles describe observed distributions
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,native_significant_share_pct,Percentage of all grids in the row group carrying the software-corrected significance flag
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,negative_share_pct,Percentage of all group grids with a negative coefficient
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,positive_share_pct,Percentage of all group grids with a positive coefficient
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,native_significant_negative_share_pct,Percentage of all group grids both software-flagged significant and negative
+Data_S6,TableS6b_scaled_coefficient_profiles.csv,native_significant_positive_share_pct,Percentage of all group grids both software-flagged significant and positive
+Data_S8,eight_indicator_common_order_summary.csv,indicator,Indicator label
+Data_S8,eight_indicator_common_order_summary.csv,coefficient_complete_order_common,Signed local-coefficient complete order common; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,coefficient_common_complete_order,Signed local-coefficient common complete order; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,coefficient_shared_min_classes,Signed local-coefficient shared min classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,coefficient_shared_max_classes,Signed local-coefficient shared max classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,observed_complete_order_common,Unranked indicator complete order common; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,observed_common_complete_order,Unranked indicator common complete order; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,observed_shared_min_classes,Unranked indicator shared min classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_common_order_summary.csv,observed_shared_max_classes,Unranked indicator shared max classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_order_by_morphology.csv,indicator,Indicator label
+Data_S8,eight_indicator_order_by_morphology.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,eight_indicator_order_by_morphology.csv,coefficient_low,Signed local-coefficient median in the low local-fit class
+Data_S8,eight_indicator_order_by_morphology.csv,coefficient_mid,Signed local-coefficient median in the mid local-fit class
+Data_S8,eight_indicator_order_by_morphology.csv,coefficient_high,Signed local-coefficient median in the high local-fit class
+Data_S8,eight_indicator_order_by_morphology.csv,coefficient_full_order,Signed local-coefficient full order; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_order_by_morphology.csv,coefficient_min_classes,Signed local-coefficient min classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_order_by_morphology.csv,coefficient_max_classes,Signed local-coefficient max classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_order_by_morphology.csv,observed_low,Unranked indicator median in the low local-fit class
+Data_S8,eight_indicator_order_by_morphology.csv,observed_mid,Unranked indicator median in the mid local-fit class
+Data_S8,eight_indicator_order_by_morphology.csv,observed_high,Unranked indicator median in the high local-fit class
+Data_S8,eight_indicator_order_by_morphology.csv,observed_full_order,Unranked indicator full order; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_order_by_morphology.csv,observed_min_classes,Unranked indicator min classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,eight_indicator_order_by_morphology.csv,observed_max_classes,Unranked indicator max classes; complete-order and shared-endpoint rules are defined in Table S8d
+Data_S8,group_context.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,group_context.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+Data_S8,group_context.csv,n,Grid count for the row
+Data_S8,group_context.csv,small_group_n_lt_30,Flag for a group containing fewer than 30 grids
+Data_S8,group_context.csv,G1_n_valid,n valid of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_min,min of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_q05,q05 of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_q25,q25 of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_median,median of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_q75,q75 of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_q95,q95 of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,G1_max,max of green-quantity score; quantiles describe observed distributions
+Data_S8,group_context.csv,height_n_valid,n valid of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_min,min of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_q05,q05 of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_q25,q25 of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_median,median of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_q75,q75 of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_q95,q95 of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,height_max,max of mean building height in m; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_n_valid,n valid of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_min,min of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_q05,q05 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_q25,q25 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_median,median of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_q75,q75 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_q95,q95 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,PWP_max,max of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_n_valid,n valid of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_min,min of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_q05,q05 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_q25,q25 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_median,median of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_q75,q75 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_q95,q95 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_G1_max,max of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_n_valid,n valid of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_min,min of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_q05,q05 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_q25,q25 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_median,median of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_q75,q75 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_q95,q95 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,beta_height_max,max of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_n_valid,n valid of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_min,min of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_q05,q05 of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_q25,q25 of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_median,median of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_q75,q75 of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_q95,q95 of local goodness of fit; quantiles describe observed distributions
+Data_S8,group_context.csv,LocalR2_max,max of local goodness of fit; quantiles describe observed distributions
+Data_S8,joint_grid.csv,LID,Stable analysis-grid identifier
+Data_S8,joint_grid.csv,RUN_ROWID,Model-run row identity
+Data_S8,joint_grid.csv,LCZ_ZONE,"Study morphology code 1 compact, 2 open mid/high-rise, 3 open low-rise, 4 green-space"
+Data_S8,joint_grid.csv,LR2_ZONE,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+Data_S8,joint_grid.csv,LOCALR2,Local goodness of fit
+Data_S8,joint_grid.csv,PWP_Day_total,"Total-population-weighted summer daytime land-surface temperature, degrees Celsius"
+Data_S8,joint_grid.csv,Centroid_X,"Grid centroid easting in EPSG:32650, m"
+Data_S8,joint_grid.csv,Centroid_Y,"Grid centroid northing in EPSG:32650, m"
+Data_S8,joint_grid.csv,BuildHeight_Mean,"Mean height in building-covered areas, m"
+Data_S8,joint_grid.csv,CanopyHeight_Mean,"Original model-input grid-mean canopy height, cm; valid zeros retained"
+Data_S8,joint_grid.csv,G1_score,Min-Max green-quantity score
+Data_S8,joint_grid.csv,G2_score,Green fragmentation-extension score
+Data_S8,joint_grid.csv,G3_score,Green connectivity-interspersion score
+Data_S8,joint_grid.csv,B3_score,Grey connectivity-interspersion score
+Data_S8,joint_grid.csv,GBRDG_Pct,Green Bridge percentage of green MSPA foreground
+Data_S8,joint_grid.csv,BBRDG_Pct,Grey Bridge percentage of grey MSPA foreground
+Data_S8,joint_grid.csv,RANKDEV_BuildHeight_Mean,Centred within-morphology average-rank percentile for BuildHeight_Mean; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_BuildHeight_Mean,Signed standardised-model local coefficient for BuildHeight_Mean
+Data_S8,joint_grid.csv,SIG_BuildHeight_Mean,"Software-corrected significance flag for BuildHeight_Mean; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_CanopyHeight_Mean,Centred within-morphology average-rank percentile for CanopyHeight_Mean; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_CanopyHeight_Mean,Signed standardised-model local coefficient for CanopyHeight_Mean
+Data_S8,joint_grid.csv,SIG_CanopyHeight_Mean,"Software-corrected significance flag for CanopyHeight_Mean; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_G1_score,Centred within-morphology average-rank percentile for G1_score; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_G1_score,Signed standardised-model local coefficient for G1_score
+Data_S8,joint_grid.csv,SIG_G1_score,"Software-corrected significance flag for G1_score; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_G2_score,Centred within-morphology average-rank percentile for G2_score; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_G2_score,Signed standardised-model local coefficient for G2_score
+Data_S8,joint_grid.csv,SIG_G2_score,"Software-corrected significance flag for G2_score; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_G3_score,Centred within-morphology average-rank percentile for G3_score; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_G3_score,Signed standardised-model local coefficient for G3_score
+Data_S8,joint_grid.csv,SIG_G3_score,"Software-corrected significance flag for G3_score; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_B3_score,Centred within-morphology average-rank percentile for B3_score; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_B3_score,Signed standardised-model local coefficient for B3_score
+Data_S8,joint_grid.csv,SIG_B3_score,"Software-corrected significance flag for B3_score; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_GBRDG_Pct,Centred within-morphology average-rank percentile for GBRDG_Pct; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_GBRDG_Pct,Signed standardised-model local coefficient for GBRDG_Pct
+Data_S8,joint_grid.csv,SIG_GBRDG_Pct,"Software-corrected significance flag for GBRDG_Pct; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,RANKDEV_BBRDG_Pct,Centred within-morphology average-rank percentile for BBRDG_Pct; d=2(q-0.5)
+Data_S8,joint_grid.csv,COEF_BBRDG_Pct,Signed standardised-model local coefficient for BBRDG_Pct
+Data_S8,joint_grid.csv,SIG_BBRDG_Pct,"Software-corrected significance flag for BBRDG_Pct; 1 flagged, 0 unflagged"
+Data_S8,joint_grid.csv,sector,"Fixed coordinate sector NW, NE, SW or SE, as defined in Table S8c"
+Data_S8,joint_grid.csv,morph_label,Morphology text label
+Data_S8,joint_grid.csv,fit_label,Local-fit text label
+Data_S8,joint_grid.csv,lr2_bin,Retained ancillary field not used in the manuscript
+Data_S8,joint_grid.csv,PWP_within_morph_q,Within-morphology PWP quartile interval code 1-4
+Data_S8,joint_grid.csv,beta_G1_within_morph_q,Within-morphology signed G1-coefficient quartile code 1-4
+Data_S8,paired_spearman.csv,level,Grouping level of the descriptive comparison
+Data_S8,paired_spearman.csv,x,First compared variable
+Data_S8,paired_spearman.csv,y,Second compared variable
+Data_S8,paired_spearman.csv,n,Grid count for the row
+Data_S8,paired_spearman.csv,n_excluded_nonfinite,Number of pairs excluded because at least one value was nonfinite
+Data_S8,paired_spearman.csv,n_unique_x,Distinct value count for x
+Data_S8,paired_spearman.csv,n_unique_y,Distinct value count for y
+Data_S8,paired_spearman.csv,n_redundant_tied_x,Finite observations minus distinct values for x
+Data_S8,paired_spearman.csv,n_redundant_tied_y,Finite observations minus distinct values for y
+Data_S8,paired_spearman.csv,small_group_n_lt_30,Flag for a group containing fewer than 30 grids
+Data_S8,paired_spearman.csv,spearman_rho,Descriptive Spearman rank correlation
+Data_S8,paired_spearman.csv,status,Computation/status label retained from the existing descriptive output
+Data_S8,paired_spearman.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,paired_spearman.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+Data_S8,paired_spearman.csv,sector,"Fixed coordinate sector NW, NE, SW or SE, as defined in Table S8c"
+Data_S8,PWP_all_eight_coefficients_spearman.csv,level,Grouping level of the descriptive comparison
+Data_S8,PWP_all_eight_coefficients_spearman.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,PWP_all_eight_coefficients_spearman.csv,indicator,Indicator label
+Data_S8,PWP_all_eight_coefficients_spearman.csv,n,Grid count for the row
+Data_S8,PWP_all_eight_coefficients_spearman.csv,n_unique_PWP,Distinct value count for PWP
+Data_S8,PWP_all_eight_coefficients_spearman.csv,n_unique_coefficient,Distinct value count for coefficient
+Data_S8,PWP_all_eight_coefficients_spearman.csv,spearman_rho,Descriptive Spearman rank correlation
+Data_S8,PWP_all_eight_coefficients_spearman.csv,status,Computation/status label retained from the existing descriptive output
+Data_S8,PWP_betaG1_quartile_joint_context.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_quartile,Within-morphology signed G1-coefficient quartile code 1-4
+Data_S8,PWP_betaG1_quartile_joint_context.csv,n,Grid count for the row
+Data_S8,PWP_betaG1_quartile_joint_context.csv,n_unique_LID,Distinct grid identities in the row
+Data_S8,PWP_betaG1_quartile_joint_context.csv,small_group_n_lt_30,Flag for a group containing fewer than 30 grids
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_min,min of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_q05,q05 of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_q25,q25 of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_median,median of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_q75,q75 of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_q95,q95 of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,G1_max,max of green-quantity score; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_min,min of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_q05,q05 of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_q25,q25 of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_median,median of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_q75,q75 of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_q95,q95 of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,height_max,max of mean building height in m; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_min,min of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_q05,q05 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_q25,q25 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_median,median of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_q75,q75 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_q95,q95 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,PWP_max,max of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_min,min of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_q05,q05 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_q25,q25 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_median,median of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_q75,q75 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_q95,q95 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,beta_G1_max,max of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,PWP_betaG1_quartile_joint_context.csv,sector_NW_n,Grid count in fixed sector NW
+Data_S8,PWP_betaG1_quartile_joint_context.csv,sector_NE_n,Grid count in fixed sector NE
+Data_S8,PWP_betaG1_quartile_joint_context.csv,sector_SW_n,Grid count in fixed sector SW
+Data_S8,PWP_betaG1_quartile_joint_context.csv,sector_SE_n,Grid count in fixed sector SE
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,beta_G1_quartile,Within-morphology signed G1-coefficient quartile code 1-4
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,n,Grid count for the row
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,PWP_quartile_n,Complete within-morphology PWP-quartile denominator
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,row_percent,100 times joint count divided by the corresponding within-morphology PWP-quartile count
+Data_S8,PWP_betaG1_quartile_joint_counts.csv,morphology_n,Total grid count of the morphology
+Data_S8,PWP_extremes_betaG1_most_negative.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,PWP_extremes_betaG1_most_negative.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S8,PWP_extremes_betaG1_most_negative.csv,PWP_quartile_label,PWP quartile text label
+Data_S8,PWP_extremes_betaG1_most_negative.csv,PWP_quartile_n,Complete within-morphology PWP-quartile denominator
+Data_S8,PWP_extremes_betaG1_most_negative.csv,beta_most_negative_quartile_n,Grid count in the joint PWP-tail and G1-coefficient-Q1 set
+Data_S8,PWP_extremes_betaG1_most_negative.csv,percent_of_PWP_quartile,100 times joint count divided by the complete PWP-quartile denominator
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,sector,"Fixed coordinate sector NW, NE, SW or SE, as defined in Table S8c"
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,PWP_quartile_sector_n,Complete PWP-tail/quartile denominator within the indicated morphology and sector
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,beta_most_negative_and_PWP_extreme_n,Grid count satisfying both the PWP extreme and coefficient Q1 in the indicated sector
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,percent_of_selected_extreme,"Sector share of the entire selected joint tail set, percent"
+Data_S8,PWP_extremes_betaG1_sector_counts.csv,percent_of_PWP_quartile_in_sector,"Joint proportion conditional on the complete PWP tail in the same morphology and sector, percent"
+Data_S8,sector_context.csv,sector,"Fixed coordinate sector NW, NE, SW or SE, as defined in Table S8c"
+Data_S8,sector_context.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,sector_context.csv,fit_class,"Original local-fit code 1 lower, 2 intermediate, 3 higher"
+Data_S8,sector_context.csv,n,Grid count for the row
+Data_S8,sector_context.csv,small_group_n_lt_30,Flag for a group containing fewer than 30 grids
+Data_S8,sector_context.csv,G1_n_valid,n valid of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_min,min of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_q05,q05 of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_q25,q25 of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_median,median of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_q75,q75 of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_q95,q95 of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,G1_max,max of green-quantity score; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_n_valid,n valid of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_min,min of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_q05,q05 of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_q25,q25 of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_median,median of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_q75,q75 of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_q95,q95 of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,height_max,max of mean building height in m; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_n_valid,n valid of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_min,min of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_q05,q05 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_q25,q25 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_median,median of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_q75,q75 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_q95,q95 of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,PWP_max,max of PWP in degrees Celsius; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_n_valid,n valid of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_min,min of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_q05,q05 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_q25,q25 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_median,median of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_q75,q75 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_q95,q95 of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_G1_max,max of signed standardised G1 coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_n_valid,n valid of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_min,min of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_q05,q05 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_q25,q25 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_median,median of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_q75,q75 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_q95,q95 of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,beta_height_max,max of signed standardised building-height coefficient; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_n_valid,n valid of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_min,min of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_q05,q05 of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_q25,q25 of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_median,median of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_q75,q75 of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_q95,q95 of local goodness of fit; quantiles describe observed distributions
+Data_S8,sector_context.csv,LocalR2_max,max of local goodness of fit; quantiles describe observed distributions
+Data_S8,TableS8e_EN.csv,morphology_code,Morphology code 1-4
+Data_S8,TableS8e_EN.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,TableS8e_EN.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S8,TableS8e_EN.csv,PWP_tail,Cool or hot PWP tail
+Data_S8,TableS8e_EN.csv,PWP_tail_n,Complete within-morphology PWP-tail denominator
+Data_S8,TableS8e_EN.csv,joint_beta_Q1_n,Grid count in the joint PWP-tail and G1-coefficient-Q1 set
+Data_S8,TableS8e_EN.csv,original_lower_fit_n,Original lower fit n; percentages use the joint-set denominator
+Data_S8,TableS8e_EN.csv,original_intermediate_fit_n,Original intermediate fit n; percentages use the joint-set denominator
+Data_S8,TableS8e_EN.csv,original_higher_fit_n,Original higher fit n; percentages use the joint-set denominator
+Data_S8,TableS8e_EN.csv,original_lower_fit_percent_of_joint,Original lower fit percent of joint; percentages use the joint-set denominator
+Data_S8,TableS8e_EN.csv,original_intermediate_fit_percent_of_joint,Original intermediate fit percent of joint; percentages use the joint-set denominator
+Data_S8,TableS8e_EN.csv,original_higher_fit_percent_of_joint,Original higher fit percent of joint; percentages use the joint-set denominator
+Data_S8,TableS8f_EN.csv,morphology_code,Morphology code 1-4
+Data_S8,TableS8f_EN.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,TableS8f_EN.csv,sector,"Fixed coordinate sector NW, NE, SW or SE, as defined in Table S8c"
+Data_S8,TableS8f_EN.csv,cool_joint_beta_Q1_n,"cool joint beta Q1 n; counts and denominator are within the indicated morphology and sector, as in Table S8f"
+Data_S8,TableS8f_EN.csv,cool_PWP_tail_sector_N,"cool PWP tail sector N; counts and denominator are within the indicated morphology and sector, as in Table S8f"
+Data_S8,TableS8f_EN.csv,cool_percent_of_PWP_tail_in_sector,"cool percent of PWP tail in sector; counts and denominator are within the indicated morphology and sector, as in Table S8f"
+Data_S8,TableS8f_EN.csv,hot_joint_beta_Q1_n,"hot joint beta Q1 n; counts and denominator are within the indicated morphology and sector, as in Table S8f"
+Data_S8,TableS8f_EN.csv,hot_PWP_tail_sector_N,"hot PWP tail sector N; counts and denominator are within the indicated morphology and sector, as in Table S8f"
+Data_S8,TableS8f_EN.csv,hot_percent_of_PWP_tail_in_sector,"hot percent of PWP tail in sector; counts and denominator are within the indicated morphology and sector, as in Table S8f"
+Data_S8,within_morph_quartile_thresholds.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S8,within_morph_quartile_thresholds.csv,variable,Variable or model-input field name
+Data_S8,within_morph_quartile_thresholds.csv,n,Grid count for the row
+Data_S8,within_morph_quartile_thresholds.csv,n_unique,Distinct value count for the variable
+Data_S8,within_morph_quartile_thresholds.csv,q25,q25 of row variable; quantiles describe observed distributions
+Data_S8,within_morph_quartile_thresholds.csv,q50,q50 of row variable; quantiles describe observed distributions
+Data_S8,within_morph_quartile_thresholds.csv,q75,q75 of row variable; quantiles describe observed distributions
+Data_S9,direction_comparison.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S9,direction_comparison.csv,morphology_label,Morphology text label
+Data_S9,direction_comparison.csv,hot_minus_cool_1400_pp,"Hot-tail overlap minus cool-tail overlap within the whole morphology for the 1400 output, percentage points"
+Data_S9,direction_comparison.csv,hot_minus_cool_1600_pp,"Hot-tail overlap minus cool-tail overlap within the whole morphology for the 1600 output, percentage points"
+Data_S9,direction_comparison.csv,direction_preserved,Flag that the hot-minus-cool overlap direction is unchanged across outputs
+Data_S9,full_joint_counts.csv,run_lower_bound,"Existing MGWR neighbourhood-search lower bound, 1400 or 1600"
+Data_S9,full_joint_counts.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S9,full_joint_counts.csv,morphology_label,Morphology text label
+Data_S9,full_joint_counts.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S9,full_joint_counts.csv,beta_quartile,Within-morphology signed G1-coefficient quartile code 1-4
+Data_S9,full_joint_counts.csv,n,Grid count for the row
+Data_S9,full_joint_counts.csv,PWP_quartile_n,Complete within-morphology PWP-quartile denominator
+Data_S9,full_joint_counts.csv,row_percent,100 times joint count divided by the corresponding within-morphology PWP-quartile count
+Data_S9,member_change_summary.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S9,member_change_summary.csv,morphology_label,Morphology text label
+Data_S9,member_change_summary.csv,n,Grid count for the row
+Data_S9,member_change_summary.csv,Q1_1400_n,Count of grids in coefficient Q1 for the indicated output
+Data_S9,member_change_summary.csv,Q1_1600_n,Count of grids in coefficient Q1 for the indicated output
+Data_S9,member_change_summary.csv,retained_Q1_n,Count in coefficient Q1 in both outputs
+Data_S9,member_change_summary.csv,entered_Q1_1600_n,Count entering coefficient Q1 in the 1600 output
+Data_S9,member_change_summary.csv,exited_Q1_1400_n,Count leaving coefficient Q1 from the 1400 output
+Data_S9,member_change_summary.csv,membership_changed_n,"Total grids entering or leaving Q1, each counted once"
+Data_S9,member_change_summary.csv,entered_cool_n,Q1 entrants in the fixed cool PWP tail
+Data_S9,member_change_summary.csv,exited_cool_n,Q1 exits in the fixed cool PWP tail
+Data_S9,member_change_summary.csv,entered_hot_n,Q1 entrants in the fixed hot PWP tail
+Data_S9,member_change_summary.csv,exited_hot_n,Q1 exits in the fixed hot PWP tail
+Data_S9,member_comparison_4005.csv,LID,Stable analysis-grid identifier
+Data_S9,member_comparison_4005.csv,RUN_ROWID,Model-run row identity
+Data_S9,member_comparison_4005.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S9,member_comparison_4005.csv,PWP,"Total-population-weighted summer daytime land-surface temperature, degrees Celsius"
+Data_S9,member_comparison_4005.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S9,member_comparison_4005.csv,G1_coefficient_1400,Signed G1 local coefficient from the 1400 neighbourhood lower-bound output
+Data_S9,member_comparison_4005.csv,G1_coefficient_1600,Signed G1 local coefficient from the 1600 neighbourhood lower-bound output
+Data_S9,member_comparison_4005.csv,beta_quartile_1400,Within-morphology signed G1-coefficient quartile code for the 1400 output
+Data_S9,member_comparison_4005.csv,beta_quartile_1600,Within-morphology signed G1-coefficient quartile code for the 1600 output
+Data_S9,member_comparison_4005.csv,Q1_membership_changed,Flag for entering or leaving coefficient Q1 between the two existing outputs
+Data_S9,run_quartile_thresholds.csv,run_lower_bound,"Existing MGWR neighbourhood-search lower bound, 1400 or 1600"
+Data_S9,run_quartile_thresholds.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S9,run_quartile_thresholds.csv,morphology_label,Morphology text label
+Data_S9,run_quartile_thresholds.csv,variable,Variable or model-input field name
+Data_S9,run_quartile_thresholds.csv,n,Grid count for the row
+Data_S9,run_quartile_thresholds.csv,q25,q25 of row variable; quantiles describe observed distributions
+Data_S9,run_quartile_thresholds.csv,q50,q50 of row variable; quantiles describe observed distributions
+Data_S9,run_quartile_thresholds.csv,q75,q75 of row variable; quantiles describe observed distributions
+Data_S9,tail_comparison.csv,morphology,Morphology identifier or label; numeric codes 1-4 as defined in the data dictionary
+Data_S9,tail_comparison.csv,morphology_label,Morphology text label
+Data_S9,tail_comparison.csv,PWP_tail,Cool or hot PWP tail
+Data_S9,tail_comparison.csv,PWP_quartile,Within-morphology PWP quartile interval code 1-4
+Data_S9,tail_comparison.csv,denominator,Complete within-morphology PWP-tail denominator
+Data_S9,tail_comparison.csv,joint_n_1400,Joint PWP-tail and coefficient-Q1 grid count for the indicated output
+Data_S9,tail_comparison.csv,percent_1400,100 times the joint count divided by the fixed PWP-tail denominator for the indicated output
+Data_S9,tail_comparison.csv,joint_n_1600,Joint PWP-tail and coefficient-Q1 grid count for the indicated output
+Data_S9,tail_comparison.csv,percent_1600,100 times the joint count divided by the fixed PWP-tail denominator for the indicated output
+Data_S9,tail_comparison.csv,delta_1600_minus_1400_pp,"1600 overlap percentage minus 1400 overlap percentage, percentage points"

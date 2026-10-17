@@ -1,0 +1,9 @@
+﻿morphology_code,morphology,PWP_quartile,PWP_tail,PWP_tail_n,joint_beta_Q1_n,original_lower_fit_n,original_intermediate_fit_n,original_higher_fit_n,original_lower_fit_percent_of_joint,original_intermediate_fit_percent_of_joint,original_higher_fit_percent_of_joint
+1,Compact,1,Coolest (Q1),162,23,0,0,23,0.0,0.0,100.0
+1,Compact,4,Hottest (Q4),162,75,0,17,58,0.0,22.666666666666668,77.33333333333333
+2,Open mid-/high-rise,1,Coolest (Q1),265,65,0,0,65,0.0,0.0,100.0
+2,Open mid-/high-rise,4,Hottest (Q4),265,91,2,17,72,2.197802197802198,18.681318681318682,79.12087912087912
+3,Open low-rise,1,Coolest (Q1),165,31,0,0,31,0.0,0.0,100.0
+3,Open low-rise,4,Hottest (Q4),165,62,0,16,46,0.0,25.806451612903224,74.19354838709677
+4,Green-space type,1,Coolest (Q1),410,179,63,51,65,35.19553072625698,28.491620111731844,36.312849162011176
+4,Green-space type,4,Hottest (Q4),410,90,1,31,58,1.1111111111111112,34.44444444444444,64.44444444444444
